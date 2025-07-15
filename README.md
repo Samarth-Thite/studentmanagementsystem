@@ -55,18 +55,7 @@ src/
 
 
 
+Output:## 📸 Screenshot
 
+![Student Management System Output](screenshots/stud.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-Output:
